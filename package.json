@@ -1,0 +1,22 @@
+{
+  "name": "hackts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badforlabor/hackts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badforlabor/hackts/issues"
+  },
+  "homepage": "https://github.com/badforlabor/hackts#readme",
+  "dependencies": {
+    "@types/node": "^10.9.4"
+  }
+}
